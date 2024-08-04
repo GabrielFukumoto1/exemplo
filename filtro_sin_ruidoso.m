@@ -32,3 +32,4 @@ end                                                             % EX: mean(sinal
                                                                 %
 plot(t, sinal_com_ruido, 'b', t, sinal_filtrado, 'r');          %
 
+% adicionando uma linha para o exemplo do commit
